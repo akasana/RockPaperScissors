@@ -7,7 +7,7 @@
 print("Rock Paper Scissor in Python by Abhishek Kasana")
 loose = ("The computer wins")
 win = ("You win")
-lives = 5
+lives = 6
 score = 0
 drew = 0
 computer_lives = 7
